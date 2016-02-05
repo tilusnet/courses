@@ -211,7 +211,7 @@ $\alpha = 1 - Conf. Level$._
 $2 \alpha = 1 - Conf. Level$.
 3. All of the values of the hypothesized mean for which we would reject with 
 $\alpha = 1 - Conf. Level$.
-4. All of the values of the hypothesized mean for which we would fail to reject with 
+4. All of the values of the hypothesized mean for which we would reject with 
 $2 \alpha = 1 - Conf. Level$.
 
 *** .hint
@@ -254,7 +254,7 @@ The answer is <span class="answer">0.804</span>
 --- &multitext
 Researchers would like to conduct a study of healthy adults to detect a four year mean brain volume loss of .01 mm3. Assume that the standard deviation of four year volume loss in this population is .04 mm3. 
 
-1. What is necessary sample size for the study for a 5% one sided test versus a null hypothesis of no volume loss to acheive 80% power? (Always round up)
+1. What is necessary sample size for the study for a 5% one sided test versus a null hypothesis of no volume loss to achieve 80% power? (Always round up)
 
 
 
